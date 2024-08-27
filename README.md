@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Guilherme Ribeiro ! <br>Bem vindo ao meu perfil GitHub 👋</h2>
+<h2 align="center">Olá, me chamo Guilherme Ribeiro ! <br>Bem vindo ao meu perfil GitHub 👋</h2>
 
 ###
 
@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRibeiroSilva&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=true" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeRibeiroSilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true&custom_title=Linguagens%20mais%20utilizadas" height="157" alt="languages graph"  />
 </div>
+
+###
+
+<h4 align="center">Linguagens e Ferramentas com conhecimento</h4>
 
 ###
 
@@ -49,5 +53,3 @@
 <img src="https://raw.githubusercontent.com/GuilhermeRibeiroSilva/GuilhermeRibeiroSilva/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
