@@ -48,5 +48,8 @@
 
 ###
 
-![Snake animation](https://github.com/GuilhermeRibeiroSilva/GuilhermeRibeiroSilva/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GuilhermeRibeiroSilva/GuilhermeRibeiroSilva/output/snake.svg" alt="Snake animation" />
+
 ###
